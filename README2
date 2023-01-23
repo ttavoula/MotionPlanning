@@ -1,0 +1,10 @@
+COMP/ELEC/MECH 450/550
+Project 4
+Team: Efe Eboreime, Theodoros Tavoulareas
+
+How to compile our code?
+Simply run "make" inside project4 folder
+
+How to run the path visualization scripts?
+- Pendulum: python3 visualization_pendulum.py (reads from path_pendulum.txt)
+- Car: python3 visualization_car.py (reads from path_car.txt)
